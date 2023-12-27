@@ -1,0 +1,8 @@
+{
+  "name": "Basic Node.js",
+  "build": { "dockerfile": "Dockerfile" },
+  "remoteUser": "node",
+  "features": {
+    "ghcr.io/maks1ms/devcontainers-features/wine:0": {}
+  }
+}
